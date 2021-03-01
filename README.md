@@ -1,2 +1,3 @@
-# Salary-Prediction-System
-Predicting the salary level of a person based on some factors.
+# Career Advisory System
+
+A Prolog program to predict/advise career plan for graduating students using Logistic Regression, by using training and testing data.
